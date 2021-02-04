@@ -17,6 +17,7 @@ You can see more in my repos.
 
 [![](https://img.shields.io/badge/LinkedIn-ViniciusBatistaBarbosa-blue)](https://www.linkedin.com/in/viniciusBatistaBarbosa/)
 [![](https://img.shields.io/badge/Gmail-vinicius.batista.barbosa34%40gmail.com-red)](mailto:vinicius.batista.barbosa34@gmail.com)
+[![](https://img.shields.io/badge/Website-ViniciusBatistaBarbosa.Dev-aqua)](https://viniciusbatistabarbosa.netlify.app/)
 
 <div align="center">
 
